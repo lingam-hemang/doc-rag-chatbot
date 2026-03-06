@@ -123,10 +123,8 @@ The optional `rename` field is a JSON object mapping original filename (without 
 ## Project Structure
 
 ```
-Project 1 (Doc API ChatBot)/
+doc-rag-chatbot/
 ├── manage.py
-├── db.sqlite3
-├── llm_chat.ipynb                  # Jupyter notebook for manual testing
 ├── Project_1/                      # Django project configuration
 │   ├── settings.py
 │   └── urls.py
