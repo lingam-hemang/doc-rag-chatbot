@@ -38,7 +38,7 @@ A Django-powered document chatbot. Upload PDFs, Word docs, text files, and image
 
 ```bash
 # Navigate to the project directory
-cd "Project 1 (Doc API ChatBot)"
+cd "doc-rag-chatbot"
 
 # Create and activate a virtual environment
 python -m venv venv
